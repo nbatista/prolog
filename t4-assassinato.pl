@@ -45,3 +45,18 @@ local(maria, santa maria, terca).
 local(maria, santa maria, quarta).
 local(maria, santa maria, quinta).
 local(maria, apartamento, sexta).
+
+insano(adriano).
+insano(maria).
+
+
+pobre(bernardo).
+pobre(bia).
+pobre(pedro).
+pobre(maria).
+
+
+rico(henrique).
+rico(adriano).
+rico(caren).
+rico(alice).
